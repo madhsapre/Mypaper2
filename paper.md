@@ -1,4 +1,4 @@
-# Title : Recent findings in software carpentry
+# fix title Recent findings in software carpentry
 Madhura Sapre, University of WHatever
 second author
 Instinfd gwrkdfdkf ....
