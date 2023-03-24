@@ -12,5 +12,5 @@ Instinfd gwrkdfdkf ....
 ## Conclusion
 
 ## Acknowledgement
-
+I thank parents, friends, advisor .....
 
